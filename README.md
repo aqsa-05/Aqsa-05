@@ -52,14 +52,3 @@
 - **DevOps Highlights:** Engineered and deployed a serverless PostgreSQL database on Neon via Drizzle ORM to automate type-safe data pipelines and execute seamless schema migrations. Configured a persistent WebSocket server cluster for live security telemetry.
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/aqsa-05">
-    <img src="https://github-readme-stats.vercel.app/api?username=aqsa-05&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Aqsa's GitHub Stats" />
-  </a>
-  <a href="https://github.com/aqsa-05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsa-05&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
