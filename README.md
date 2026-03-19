@@ -12,8 +12,6 @@
 - Building and provisioning infrastructure on Microsoft Azure and GCP
 - Automating seamless CI/CD delivery pipelines using GitHub Actions and containerizing with Docker
 - Actively engineering full-stack and secure backend systems with C#, Node.js, Next.js, and PostgreSQL
-- How to reach me: **[aqsabatoolhere@gmail.com](mailto:aqsabatoolhere@gmail.com)**
-- Let's connect on LinkedIn: **[linkedin.com/in/aqsabatool](https://www.linkedin.com/in/aqsa-batool-91281a357/)**
 
 ---
 
