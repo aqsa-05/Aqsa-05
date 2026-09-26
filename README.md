@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aqsa Batool</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">AI Engineer | Cloud Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   I'm a Computer Science student at UET Lahore, passionate about building secure, scalable infrastructure, automating CI/CD pipelines, and writing robust backend code. I specialize in bridging the gap between development and operations to continuously deliver high-quality software.
@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- Currently diving deep into Cloud Architecture & DevOps practices
+- Currently diving deep into Cloud Architecture & DevOps practices and AI 
 - Building and provisioning infrastructure on Microsoft Azure and GCP
 - Automating seamless CI/CD delivery pipelines using GitHub Actions and containerizing with Docker
 - Actively engineering full-stack and secure backend systems with C#, Node.js, Next.js, and PostgreSQL
